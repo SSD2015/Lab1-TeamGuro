@@ -1,4 +1,6 @@
 # Team-Guro
+![Guro](https://scontent-a-sin.xx.fbcdn.net/hphotos-prn2/v/t1.0-9/528218_10150744320756967_2050067703_n.jpg?oh=dcdbb17e6917da6df61d83b8d80ce870&oe=556DE468)
+
 ## Team Members
 
 Project1
