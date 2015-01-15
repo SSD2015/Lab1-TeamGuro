@@ -13,4 +13,4 @@ Project1
 ## Documents
 - [Requirements](Requirements.md)
 - [Vision](Vision.md)
-- [Use cases](Usecases.md)
+- [Use cases](UseCases.md)
