@@ -1,7 +1,7 @@
 ## WHO the product is intended for, e.g. customer or target market.
-	+ Student studying OOP.
-	+ Student who wants to review OO Principles.
-	+ Teacher
++ Student studying OOP.
++ Student who wants to review OO Principles.
++ Teacher
 
 ## WHAT IS THE NEED?
 describe the problem that this software product will address. Mention:
