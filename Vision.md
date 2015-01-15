@@ -24,7 +24,9 @@ describe the problem that this software product will address. Mention:
 ## WHAT IS IT? describe the product and its features.
 
 	## How will it be used?
+		
 	
 	## Include sketch of how it will look, or diagram of use
 
 ## WHY IS IT USEFUL? Compare to other products. How is this product unique or better?
+	It is game use for education to help studying
