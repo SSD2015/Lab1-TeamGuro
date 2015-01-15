@@ -10,7 +10,7 @@ Informal Use Case
 
 	Vision.md
 	UseCases.md
-
+3
 	##uc1. Join a game
 		.
 		.
