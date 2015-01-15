@@ -6,19 +6,19 @@
 ## WHAT IS THE NEED?
 describe the problem that this software product will address. Mention:
 
-	+ what is the problem?
-		+ Student hardly understand or remember OO Principles.
+	## what is the problem?
+		Student hardly understand or remember OO Principles.
 
 
-	### who is affected?
-		+ Student
-		+ Teacher
+	## who is affected?
+		Student
+		Teacher
 
-	### what is the impact of the problem? (reduced productivity, can't do something)
-	 	+ Difficulties of information
+	## what is the impact of the problem? (reduced productivity, can't do something)
+	 	Difficulties of information
 
-	### how would your proposed solution help?
-		+ Create quiz game
+	## how would your proposed solution help?
+		Create quiz game
 
 
 ## WHAT IS IT? describe the product and its features.
