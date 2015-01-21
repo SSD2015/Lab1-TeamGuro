@@ -39,7 +39,7 @@
 - Each box has different questions and its points. The higher the score, the hader the question.
 - The program randomly picks one student to choose the box for the first round.
 - The chosen student choose the box. Then the question appear on the screen. All students can see the question.
-- Any student who knows the answer try to press the button as fast as they can answer.
+- Any student who knows the answer try to press the button as fast as they can.
 - The student who presses fastest have to answer the question in given time.
 - When the student submits the correct answer, he/she get points of that question. If not, he/she get no point.
 - Student who presses first selects other box to continue game. 
