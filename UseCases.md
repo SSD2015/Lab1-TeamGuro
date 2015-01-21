@@ -34,7 +34,7 @@
 - Student select the room that is not full and join the room.
 - All students in the room confirm to ready, so the game start.
 
-###Use Case 4 : STUDENT PLAY MULTIPLAYER MODE
+###Use Case 4 : STUDENT JOIN ROOM AND PLAY MULTIPLAYER MODE
 - Students join the room.
 - Students will see other contestant on the right of screen.
 - A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. 
