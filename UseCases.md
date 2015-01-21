@@ -1,8 +1,12 @@
-###Use Case 1 : STUDENT LOG IN THE GAME
-Student uses his/her student ID to log in the game. Student puts in the username and password, then press summit.
+###Use Case 1.1 : STUDENT OR TEACHER LOG IN THE GAME
+- Student/Teacher fill his/her ID for username
+- Student/Teacher fill his/her password
+- Student/Teacher press log in button.
 
 ###Use Case 2.1 : STUDENT SELECT MODE
-Student selects the mode he/she wants to play. (There are 2 modes: single player mode and multiplayer mode)
+- After student log in
+- Student see 2 modes shown on the center of the screen which are single player mode and multiplayer mode.
+- Student selects the mode he/she wants to play.
 
 ###Use Case 2.2 : TEACHER SELECT MODE
 - Teacher see his/her own profile on the top of the screen.
