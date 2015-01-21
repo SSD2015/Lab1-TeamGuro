@@ -38,10 +38,10 @@ Student select one box out of 30. A question is shown on the screen. Student ans
 - The game end, so all students return to lobby.
 
 ###Use Case 10 : TEACHER ADD MORE QUESTIONS
-- Teacher log in.
-- Teacher select teacher mode.
-- Teacher select the topic the teacher wants to add a question.
-- Teacher click to add the question.
-- Teacher fill in the question and the correct answer.
-- Teacher submit to add the question.
+- Teacher logs in.
+- Teacher selects teacher mode.
+- Teacher selects the topic the teacher wants to add a question.
+- Teacher clicks to add the question.
+- Teacher fills in the question and the correct answer.
+- Teacher submits to add the question.
 - The question is added to the topics.
