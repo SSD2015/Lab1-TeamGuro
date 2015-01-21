@@ -9,7 +9,7 @@ Student selects the mode he/she wants to play. (There are 2 modes: single player
 ###Use Case 3 : STUDENT PLAY SINGLE MODE
 Student select single mode.
 A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. Each box has different questions with different points shown on the screen depend on its difficulties.
-Student select one box out of 30. A question is shown on the screen. Student answer the question in the time given. Student fill the answer in the given space. Students submit the correct answer, then the students gain points of that question. Student answer the wrong answer student gain no point. จบไง ลืม
+Student select one box out of 30. A question is shown on the screen. Student answer the question in the time given. Student fill the answer in the given space. Students submit the correct answer, then the students gain points of that question. If the student answer incorrectly his or her point will be deducted. when the student play 30 questions the game end.
 
 ###Use Case 5 : STUDENT SELECT MULTIPLAYER MODE
 - Student select multiplayer mode.
