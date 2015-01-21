@@ -22,14 +22,14 @@ Student select one box out of 30. A question is shown on the screen. Student ans
 
 ###Use Case 4 : STUDENT PLAY MULTIPLAYER MODE
 - Students join the room.
-- Student will see other contestant on the right of screen.
+- Students will see other contestant on the right of screen.
 - A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. 
 - Each box has different questions and show different points and points depend on its difficulties.
 - Computer randomly pick one student to choose the box.
 - The chosen student choose the box.
 - All students see the question.
-- Students who know the answer try to press the button as fast as they can answer.
-- The student who press first answer the question in given time.
+- Any student who knows the answer try to press the button as fast as they can answer.
+- Any student who pressed first answer the question in given time.
 - Student submit the correct answer, then the students gain points of that question.
 - Student answer the wrong answer, then student gain no point.
 - Student who press first select another box to continue game.
