@@ -17,7 +17,6 @@ Student select one box out of 30. A question is shown on the screen. Student ans
 - In the lobby, student see many rooms and its current people in the room.
 - Each room contain atmost 5 players.
 - Student select the room that is not full and join the room.
-- Student press ready to confirm.
 - All students in the room confirm to ready, so the game start.
 
 ###Use Case 4 : STUDENT PLAY MULTIPLAYER MODE
