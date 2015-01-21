@@ -8,15 +8,28 @@ Student selects the mode he/she wants to play. (There are 2 modes: single player
 
 ###Use Case 3 : STUDENT PLAY SINGLE MODE
 Student select single mode.
-A 6x5 Table is showing on the screen which each column represent different topics about Object Oriented Principle. Each box has different questions with different points shown on the screen depend on its difficulties.
-Student select one box out of 30. Student answer the question in the time given. Student fill the answer in the given space. Students submit the correct answer, then the students gain points of that question. Student answer the wrong answer student gain no point. จบไง ลืม
+A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. Each box has different questions with different points shown on the screen depend on its difficulties.
+Student select one box out of 30. A question is shown on the screen. Student answer the question in the time given. Student fill the answer in the given space. Students submit the correct answer, then the students gain points of that question. Student answer the wrong answer student gain no point. จบไง ลืม
 
 ###Use Case 5 : STUDENT JOIN MULTIPLAYER MODE
 Student select multiplayer mode.
 Student join the lobby. In the lobby, student select the room and join the game.
 
 ###Use Case 4 : STUDENT PLAY MULTIPLAYER MODE
-Students join the room. 
+- Students join the room.
+- Student will see other contestant on the right of screen.
+- A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. 
+- Each box has different questions and show different points and points depend on its difficulties.
+- Computer randomly pick one student to choose the box.
+- The chosen student choose the box.
+- All students see the question.
+- Students who know the answer try to press the button as fast as they can answer.
+- The student who press first answer the question in given time.
+- Student submit the correct answer, then the students gain points of that question.
+- Student answer the wrong answer, then student gain no point.
+- Student who press first select another box to continue game.
+- Student who gain highest points win.
+- The game end, so all students return to lobby.
 
 Students select one question out of 60(?) box showing on the screen. First student click on the button can answer the question. If first student answer the correct answer and in the time given, that student gain points.
 Students in the room select another question and so on answer the question. The student who has highest points win.
