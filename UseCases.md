@@ -1,10 +1,10 @@
-##Use Case 1 : LOG IN THE GAME
+###Use Case 1 : LOG IN THE GAME
 Student can use his/her student ID to log in the game. Put in the username and password, then press summit.
 
-##Use Case 2 : SELECT MODE
+###Use Case 2 : SELECT MODE
 Student selects the mode he/she wants to play. Single player mode is suitable for the one who wants to practice OOP skills alone and play againt the time. If the student wants to compete with the others, select multiplayer mode. Then he/she can access to Lobby which shows three rooms and the usernames that are waiting for the game starts. Each room can hold at most 5 people.
 
-##Use Case 3 : SINGLE PLAYER MODE
+###Use Case 3 : SINGLE PLAYER MODE
 The current question shows at the centre of the screen. The small previous and next question shows at the left side and right side of the current question, respectively. The student needs to fullfill the answer in answer block below the question as soon as possible because the time is going down, but when the student summits the correct answer, the time increase little by little. When the time is out, the game is over. The time, showing at the right most of the screen, is the status of the player.
 
 ###Use Case 4 : MULTIPLAYER MODE
