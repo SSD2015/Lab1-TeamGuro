@@ -11,7 +11,7 @@ Student select single mode.
 A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. Each box has different questions with different points shown on the screen depend on its difficulties.
 Student select one box out of 30. A question is shown on the screen. Student answer the question in the time given. Student fill the answer in the given space. Students submit the correct answer, then the students gain points of that question. Student answer the wrong answer student gain no point. จบไง ลืม
 
-###Use Case 5 : STUDENT JOIN MULTIPLAYER MODE
+###Use Case 5 : STUDENT SELECT MULTIPLAYER MODE
 - Student select multiplayer mode.
 - Student join the lobby.
 - In the lobby, student see many rooms and its current people in the room.
@@ -19,7 +19,7 @@ Student select one box out of 30. A question is shown on the screen. Student ans
 - Student select the room that is not full and join the room.
 - All students in the room confirm to ready, so the game start.
 
-###Use Case 4 : STUDENT PLAY MULTIPLAYER MODE
+###Use Case 4 : STUDENT JOIN ROOM TO PLAY MULTIPLAYER MODE
 - Students join the room.
 - Students will see other contestant on the right of screen.
 - A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. 
