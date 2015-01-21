@@ -7,5 +7,8 @@ Student selects the mode he/she wants to play. Single player mode is suitable fo
 ##Use Case 3 : SINGLE PLAYER MODE
 The current question shows at the centre of the screen. The small previous and next question shows at the left side and right side of the current question, respectively. The student needs to fullfill the answer in answer block below the question as soon as possible because the time is going down, but when the student summits the correct answer, the time increase little by little. When the time is out, the game is over. The time, showing at the right most of the screen, is the status of the player.
 
-##Use Case 4 : MULTIPLAYER MODE
+###Use Case 4 : MULTIPLAYER MODE
 The current question shows at the centre of the screen and small previous and next question buttons are located at the left and right side, repectively. The real time status of the other competitors shows at the left side of question. The way to answer and the status fucntion are the same as in the Single player mode. The student have to answer the question correctly in order to continue the game. If the player answer incorrectly, the status will sink to the bottom and his/her turn is over. The last player in the room is the winner.
+
+###Use Case 5 : ADD MORE QUESTION
+The add question mode will only appear only if the username is teacher. After logging in, the teacher can select this mode and add the questions and answers.
