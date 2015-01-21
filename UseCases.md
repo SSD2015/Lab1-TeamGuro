@@ -52,10 +52,10 @@
 - The game end, so all students return to lobby.
 
 ###Use Case 10 : TEACHER ADD MORE QUESTIONS
-- Teacher logs in.
-- Teacher selects teacher mode.
-- Teacher selects the topic the teacher wants to add a question.
-- Teacher clicks to add the question.
+- After teacher selected teacher mode.
+- Teacher choose the topic that the teacher wants to add a question.
+- Teacher clicks the add button to add a question.
 - Teacher fills in the question and the correct answer.
 - Teacher submits to add the question.
 - The question is added to the topics.
+- Teacher clicks the add button to add another question.
