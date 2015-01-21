@@ -1,14 +1,24 @@
 ###Use Case 1 : STUDENT LOG IN THE GAME
-Student use his/her student ID log in the game. Student put in the username and password, then press summit.
+Student uses his/her student ID to log in the game. Student puts in the username and password, then press summit.
 
 ###Use Case 2 : STUDENT SELECT MODE
-Student selects the mode he/she wants to play. *Single player mode is suitable for the one who wants to practice OOP skills alone and play against the time. If the student wants to compete with the others, select multiplayer mode. Then he/she can access to Lobby which shows three rooms and the usernames that are waiting for the game starts. Each room can hold at most 5 people.*
+Student selects the mode he/she wants to play. (There are 2 modes: single player mode and multiplayer mode)
+
+*Single player mode is suitable for the one who wants to practice OOP skills alone and play against the time. If the student wants to compete with the others, select multiplayer mode. Then he/she can access to Lobby which shows three rooms and the usernames that are waiting for the game starts. Each room can hold at most 5 people.*
 
 ###Use Case 3 : STUDENT PLAY SINGLE MODE
-Student select one question out of 60(?) box showing on the screen. Student answer the question in limited time. Student fill the answer in the blank. If students submit the correct answer, the students get point, but if not student get no point.
+Student select single mode.
+A 6x5 Table is showing on the screen which each column represent different topics about Object Oriented Principle. Each box has different questions with different points shown on the screen depend on its difficulties.
+Student select one box out of 30. Student answer the question in the time given. Student fill the answer in the given space. Students submit the correct answer, then the students gain points of that question. Student answer the wrong answer student gain no point. จบไง ลืม
+
+###Use Case 5 : STUDENT JOIN MULTIPLAYER MODE
+Student select multiplayer mode.
+Student join the lobby. In the lobby, student select the room and join the game.
 
 ###Use Case 4 : STUDENT PLAY MULTIPLAYER MODE
-Students join the room. Students select one question out of 60(?) box showing on the screen. First student click on the button can answer the question. If first student answer the correct answer and in the time given, that student gain points.
+Students join the room. 
+
+Students select one question out of 60(?) box showing on the screen. First student click on the button can answer the question. If first student answer the correct answer and in the time given, that student gain points.
 Students in the room select another question and so on answer the question. The student who has highest points win.
 
 //Use Case 4 : SINGLE PLAYER MODE
