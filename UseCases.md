@@ -26,32 +26,28 @@
 - The points is shown after student answer all 30 questions.
 - The game ended.
 
-###Use Case 5 : STUDENT SELECT ROOM TO PLAY MULTIPLAYER MODE
-- Student select multiplayer mode.
-- Student join the lobby.
-- In the lobby, student see many rooms and its current people in the room.
-- Each room contain atmost 5 players.
-- Student select the room that is not full and join the room.
-- All students in the room confirm to ready, so the game start.
+###Use Case 4 : STUDENT SELECTS ROOM FOR MULTIPLAYER MODE
+- After student selects multiplayer mode, student joins the lobby.
+- The lobby shows the room and the other students who are online in each room.
+- There are 10 rooms in the lobby and each room contains at most 5 players.
+- Student selects the room that is available and join the room.
+- All students in the room confirm if the players are ready, so the game starts.
 
-###Use Case 4 : STUDENT JOIN ROOM AND PLAY MULTIPLAYER MODE
-- Students join the room.
-- Students will see other contestant on the right of screen.
-- A 6x5 Table is showing on the center of the screen which each column represent different topics about Object Oriented Principle. 
-- Each box has different questions and show different points and points depend on its difficulties.
-- Computer randomly pick one student to choose the box.
-- The chosen student choose the box.
-- All students see the question.
+###Use Case 5 : STUDENT PLAYS MULTIPLAYER MODE
+- Students joins the room.
+- Students can see other conpetitors on the right of screen.
+- A 6x5 table shows on the center of the screen which each column represents different topics about Object Oriented Principle. 
+- Each box has different questions and its points. The higher the score, the hader the question.
+- The program randomly picks one student to choose the box for the first round.
+- The chosen student choose the box. Then the question appear on the screen. All students can see the question.
 - Any student who knows the answer try to press the button as fast as they can answer.
-- Any student who pressed first answer the question in given time.
-- Student fill the answer in the given box.
-- Student submit the correct answer, then the students gain points of that question.
-- Student answer the wrong answer, then student gain no point.
-- Student who press first select another box to continue game.
-- Student who gain highest points win.
-- The game end, so all students return to lobby.
+- The student who presses fastest have to answer the question in given time.
+- When the student submits the correct answer, he/she get points of that question. If not, he/she get no point.
+- Student who presses first selects other box to continue game. 
+- If there is no question left, the student who gets highest points will be the winner.
+- The game is over, then all students return to lobby.
 
-###Use Case 10 : TEACHER ADD MORE QUESTIONS
+###Use Case 6 : TEACHER ADD MORE QUESTIONS
 - After teacher selected teacher mode.
 - Teacher choose the topic that the teacher wants to add a question.
 - Teacher clicks the add button to add a question.
