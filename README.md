@@ -1,4 +1,4 @@
-# TeamGuro
+![Logo](http://upload.9gunner.com/img.php?id=1758)
 
 ## Team Members
 
