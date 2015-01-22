@@ -14,4 +14,12 @@ Project1
 - [Use cases](UseCases.md)
 
 ## Mock Up
+Login Page
 ![Login](http://upload.9gunner.com/img.php?id=1753)
+Main Menu
+![StudentMenu](http://upload.9gunner.com/img.php?id=1754)
+![TeacherMenu](http://upload.9gunner.com/img.php?id=1755)
+Lobby
+![Lobby](http://upload.9gunner.com/img.php?id=1756)
+Game Play
+![GamePlay](http://upload.9gunner.com/img.php?id=1757)
